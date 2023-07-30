@@ -1,0 +1,70 @@
+td {
+    border: #eee solid 1px;
+    color: white;
+}
+
+.correct {
+    background-color: #538d4e;
+}
+
+.exist {
+    background-color: #b59f3b;
+}
+
+.noExist {
+    background-color: #3a3a3c;
+}
+
+button.correct {
+    background-color: #538d4e;
+    border-color: #538d4e;
+}
+
+button.exist {
+    background-color: #b59f3b;
+    border-color: #b59f3b;
+}
+
+button.noExist {
+    background-color: #3a3a3c;
+    border-color: #3a3a3c;
+}
+
+td {
+    border: 2.5px solid rgb(58, 58, 58);
+    height: 65px;
+    width: 65px;
+}
+
+h1 {
+    font-family: Arial;
+    font-weight: bold;
+    color: white;
+}
+
+body {
+    text-align: center;
+    background-color: black;
+}
+
+div.keyboard {
+    padding-top: 30px;
+}
+
+button {
+    height: 65px;
+    width: 50px;
+    background-color: #807f7f;
+    border-radius: 10px;
+    font-family: Arial;
+    color: white;
+    font-size: 15px;
+}
+
+.line {
+    border-top: 3px solid rgb(255, 255, 255);
+    height: 2px;
+    max-width: 235px;
+    padding: 0px;
+    margin: 5px auto 0 auto;
+}
